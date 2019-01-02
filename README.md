@@ -1,4 +1,4 @@
-# SimpleDBMS.......一个用Java实现的关系型数据库
+# SimpleDBMS
 
 ### 实现功能
 * 1、用Java语言建立数据库表。  
